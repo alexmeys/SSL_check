@@ -1,0 +1,10 @@
+hier komt de lijst met certificaat adressen,
+Verwijder de hele inhoud van dit bestand en 
+vervang het met uw certificaten. VB:
+
+mail.abc.be
+remote.def.be
+camera.ghi.be
+81.82.883.884
+webmail.jkl.be
+enjoy.mail.be

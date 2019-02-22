@@ -1,0 +1,11 @@
+Activestate: 5.12.4
+
+#Voor het gebruik van de interface zijn volgende nodig op het systeem:
+ppm install http://www.bribes.org/perl/ppm/Tk.ppd (804.029)
+
+#Deze zijn algemeen nodig voor het bewerken van verschillende functies:
+use Net::SSLeay;
+use Date::Parse;
+use Date::Calc qw/Delta_YMD Delta_Days/;
+use Spreadsheet::WriteExcel;
+use Net::SMTP
