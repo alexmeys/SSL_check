@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-#Alex Meys 5/2012
+#Alex Meys
 
 #===================================*/
 use Tk;
